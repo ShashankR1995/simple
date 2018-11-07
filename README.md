@@ -1,5 +1,5 @@
 # simple
-link it to live site https://shashankr1995.github.io/simple/
+link it to live site https://github.com/JackDougherty/leaflet-map-simple
 whatever I write here will appear on public web
 hi i am shashank.
 Explore the data story
